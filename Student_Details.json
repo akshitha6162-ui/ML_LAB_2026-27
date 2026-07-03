@@ -1,0 +1,76 @@
+{
+  "title": "Student Details Report",
+  "subtitle": "Academic Records (Sample Data)",
+  "students": [
+    {
+      "name": "Aarav Sharma",
+      "rollNo": 101,
+      "branch": "CSE",
+      "section": "A",
+      "grade": "A"
+    },
+    {
+      "name": "Diya Patel",
+      "rollNo": 102,
+      "branch": "ECE",
+      "section": "A",
+      "grade": "B+"
+    },
+    {
+      "name": "Rohan Kumar",
+      "rollNo": 103,
+      "branch": "ME",
+      "section": "B",
+      "grade": "A-"
+    },
+    {
+      "name": "Sneha Reddy",
+      "rollNo": 104,
+      "branch": "EEE",
+      "section": "A",
+      "grade": "B"
+    },
+    {
+      "name": "Vikram Singh",
+      "rollNo": 105,
+      "branch": "CIVIL",
+      "section": "C",
+      "grade": "A+"
+    },
+    {
+      "name": "Ananya Das",
+      "rollNo": 106,
+      "branch": "IT",
+      "section": "B",
+      "grade": "A"
+    },
+    {
+      "name": "Karan Mehta",
+      "rollNo": 107,
+      "branch": "CSE",
+      "section": "C",
+      "grade": "B+"
+    },
+    {
+      "name": "Meera Nair",
+      "rollNo": 108,
+      "branch": "ECE",
+      "section": "B",
+      "grade": "A-"
+    },
+    {
+      "name": "Rahul Verma",
+      "rollNo": 109,
+      "branch": "IT",
+      "section": "A",
+      "grade": "B"
+    },
+    {
+      "name": "Ishita Roy",
+      "rollNo": 110,
+      "branch": "ME",
+      "section": "C",
+      "grade": "A+"
+    }
+  ]
+}
